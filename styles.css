@@ -1,0 +1,12 @@
+body {
+    background-color: #e0f7fa;
+}
+
+a {
+    color: #00796b;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
