@@ -1,4 +1,3 @@
-# README for "Mastering CSS Basics: Styling Your First Web Page" Assignment
 
 ---
 
